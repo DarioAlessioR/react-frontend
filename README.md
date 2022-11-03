@@ -3,6 +3,13 @@
 
 Implement a connection between a Ruby on Rails back-end API and React front-end.
 
+## Backend API Links
+
+[Github Repository](https://github.com/DarioAlessioR/Hello-Rails-Webapp)
+
+[Heroku Deployment](https://damp-basin-65851.herokuapp.com/api/v1/hello)
+
+
 ## Built With
 
 - React
