@@ -1,10 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# Set up a "Hello world" project as one app with Webpack
+# Set up a "Hello world" project as tow apps
 
-Implement a connection between a Ruby on Rails back-end and React front-end.
+Implement a connection between a Ruby on Rails back-end API and React front-end.
+
+## Backend API Links
+
+[Github Repository](https://github.com/DarioAlessioR/Hello-Rails-Webapp)
+
+[Heroku Deployment](https://damp-basin-65851.herokuapp.com/api/v1/hello)
+
 
 ## Built With
 
+- React
 - Ruby
 - Ruby on Rails
 - HTML
@@ -13,15 +21,14 @@ Implement a connection between a Ruby on Rails back-end and React front-end.
 
 ## Setup
 
-1. You would need to have a computer with ruby and ruby on rails installed to run it.
-2. Follow these steps on your console to properly clone this repository on your desktop:
+1. Follow these steps on your console to properly clone this repository on your desktop:
 
 ```
-$ git clone https://github.com/DarioAlessioR/hello-rails-react.git
+$ git clone https://github.com/DarioAlessioR/react-frontend.git
 $ code .
 ```
 
-3. At the command line, run ./bin/dev to run the app.
+3. At the command line, run npm start.
 
 
 ## Author
